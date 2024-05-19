@@ -2702,7 +2702,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 ###############################################################MALAYSIA######################################################################################################################
 
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (server 1)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/VTthPqN/malay.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
@@ -3800,7 +3800,7 @@ http://58.35.70.169:10055/live/cctv17/hls.m3u8
 
 
 
-#EXTINF:-1 tvg-id="416" ch-number="416" group-title="KOREAN" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies (MY)   
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="KOREAN" group-logo="https://i.ibb.co/KrQyrM2/download-1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
@@ -4364,7 +4364,7 @@ http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="INDONESIA" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="INDONESIA" group-logo="https://i.ibb.co/vX7WM4s/indo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
