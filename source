@@ -109,7 +109,7 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extens
 http://31.42.187.37:25461/watchpad13155/1234/113  
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNjE3Nzg0NiwiaWF0IjoxNzE1NTczODQ2fQ.pGehS_ztyRfZwVh2ibRSV-J1ZAck94bBsx_liCOzUxo"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EUTJZVGhtWWpRdE4yWm1OUzAwTldRNUxXSmhZVGt0WVdZMU5qQmhOMkU1WmpSaSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNjE5Njg4NiwiaWF0IjoxNzE1NTkyODg2fQ.9xIznzqearZtjOS3KOy1M9OQq8lCF1Jutep6oyRw0TE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
