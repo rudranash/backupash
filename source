@@ -4,6 +4,62 @@
 
 #EXTM3U x-tvg-url=" vod_library="https://raw.githubusercontent.com/rudranash/rudranash/main/vvd"
 
+############## EURO 2024 #################
+
+#EXTINF:-1 group-logo="https://i.ibb.co/R9mLhFV/euro-2024.png"  tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" tvg-name="beIN Sports HD" group-title="EURO 2024",BeIN Sports 1 FHD
+http://50875145311312683.napgoto413.xyz:80/play/ja630963/dkSY9DjbV8PG/312683.ts
+ 
+#EXTINF:-1 tvg-name="beIN Sports 2 HD" tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="EURO 2024",BeIN Sports 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5066
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+ 
+#EXTINF:-1 tvg-name="beIN Sports 3 HD" tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="EURO 2024",BeIN Sports 3 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2705
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1 tvg-name="beIN Sports 4 HD" tvg-logo="https://i.ibb.co/FKCQFqL/logo-euro.jpg" group-title="EURO 2024",BeIN Sports 4 FHD
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159304
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKCQFqL/logo-euro.jpg" group-title="EURO 2024",Fox Sport 1
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162365
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKCQFqL/logo-euro.jpg" group-title="EURO 2024",Fox Sport 2
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162451
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKCQFqL/logo-euro.jpg" group-title="EURO 2024",CH Europeon Now
+https://tinyurl.com/euro2024s
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="EURO 2024",BeIN Sports Max
+https://tinyurl.com/beinhdmax
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/03/eTmMUZYXkIRts1D.png" group-title="EURO 2024",SpoTV SPORTS
+https://tinyurl.com/spotvhd2
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="808.astro" tvg-name="SPOTV STADIA" group-title="EURO 2024" tvg-logo="https://iili.io/JyUggIt.png",SPOTV Stadia (Server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUQmhaVEprWVdFdFpUSXdZUzAwTVdZeUxXSmxaRFF0WmprNE5tWmxabVl6TlRNeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODY0MjE2MCwiaWF0IjoxNzE4MDM4MTYwfQ.jHDCU5-vOtS6uoYMldG65drQjsAB3JbNaecM3Dp1U2A"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTVStadia" tvg-name="SPOTV Stadia" ch-number="808" group-title="EURO 2024" tvg-logo="https://iili.io/JyUggIt.png",SPOTV Stadia (Server 2)
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxODQ0NTAwMywiaWF0IjoxNzE3ODQxMDAzfQ.MPpP5VwD3tnUEA0Ha_KmpOJopZoLi32eEpOT2taGj-8"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTVStadia" tvg-name="SPOTV Stadia" ch-number="808" group-title="EURO 2024" tvg-logo="https://iili.io/JyUggIt.png",SPOTV Stadia (Server 3)
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
 ###########################################################################SPORTS################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
