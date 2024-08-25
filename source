@@ -3680,85 +3680,82 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/y3FaY1723986935.jpg" group-title="TAMIL", COLORS TAMIL 4K
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/y3FaY1723986935.jpg" group-title="INDIAN", COLORS TAMIL 4K
 https://public.rkmiptv.fun/smart.php?id=742
 
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="TAMIL", Zee Tamil 
+#EXTINF:-1 tvg-id="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="INDIAN", Zee Tamil 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="TAMIL",Zee Cinemalu
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="INDIAN",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/h2YrU1723650153.jpg" group-title="TAMIL", STAR VIJAY HD
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/h2YrU1723650153.jpg" group-title="INDIAN", STAR VIJAY HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100153
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/Ot69p1724054716.jpg" group-title="TAMIL",STAR VIJAY 4K
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/Ot69p1724054716.jpg" group-title="INDIAN",STAR VIJAY 4K
 https://allinonereborn.com/4ktv/m3u.php?id=66390
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/zeI1E1723371252.webp" group-title="TAMIL",VIJAY SUPER 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/zeI1E1723371252.webp" group-title="INDIAN",VIJAY SUPER 
 https://public.rkmiptv.fun/smart.php?id=831
 
-#EXTINF:18  tvg-logo="https://i.imghippo.com/files/0noS61723897294.jpg" group-title="TAMIL", 3 Tamil HD
+#EXTINF:18  tvg-logo="https://i.imghippo.com/files/0noS61723897294.jpg" group-title="INDIAN", 3 Tamil HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:18 tvg-logo="https://i.imghippo.com/files/M0GGQ1723897496.webp" group-title="TAMIL", 7 Star TV HD
+#EXTINF:18 tvg-logo="https://i.imghippo.com/files/M0GGQ1723897496.webp" group-title="INDIAN", 7 Star TV HD
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:22 tvg-logo="https://i.imghippo.com/files/aPzbc1723897836.jpg" group-title="TAMIL",  Chithiram HD
+#EXTINF:22 tvg-logo="https://i.imghippo.com/files/aPzbc1723897836.jpg" group-title="INDIAN",  Chithiram HD
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF:22 tvg-logo="https://i.imghippo.com/files/Mku1X1723898018.jpg" group-title="TAMIL", APS TV
+#EXTINF:22 tvg-logo="https://i.imghippo.com/files/Mku1X1723898018.jpg" group-title="INDIAN", APS TV
 http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/dtt1j1723371340.jpg" group-title="TAMIL", MK TV TAMIL 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/dtt1j1723371340.jpg" group-title="INDIAN", MK TV TAMIL 
 https://public.rkmiptv.fun/smart.php?id=639
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/lpXd11723371429.jpg" group-title="TAMIL", JOTHI TV 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/lpXd11723371429.jpg" group-title="INDIAN", JOTHI TV 
 https://public.rkmiptv.fun/smart.php?id=11794
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/qAxYV1723371500.png" group-title="TAMIL", MEGA 24 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/qAxYV1723371500.png" group-title="INDIAN", MEGA 24 
 https://public.rkmiptv.fun/smart.php?id=11796
 
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/UMGv61723371617.webp" group-title="TAMIL", PUTHYUGAM TV 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/UMGv61723371617.webp" group-title="INDIAN", PUTHYUGAM TV 
 https://public.rkmiptv.fun/smart.php?id=11814
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/PMEAb1723371707.jpg" group-title="TAMIL", STAR SPORTS 1 TAMIL HD
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/PMEAb1723371707.jpg" group-title="INDIAN", STAR SPORTS 1 TAMIL HD
 https://public.rkmiptv.fun/smart.php?id=12154
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/K6CoK1723644491.png" group-title="TAMIL", ZEE THIRAI TV
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/K6CoK1723644491.png" group-title="INDIAN", ZEE THIRAI TV
 https://public.rkmiptv.fun/smart.php?id=11756
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/FFTyf1723371828.jpg" group-title="TAMIL", ADHTIYA TV
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/FFTyf1723371828.jpg" group-title="INDIAN", ADHTIYA TV
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100100
-#EXTINF:-1 tvg-id="ktvhd.in" tvg-logo="" group-title="TAMIL", KTV HD
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-logo="" group-title="INDIAN", KTV HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100125
-#EXTINF: -1 tvg-id="ts663" tvg-chno="52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="TAMIL", Tata Play Tamil Cinema
+#EXTINF: -1 tvg-id="ts663" tvg-chno="52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="INDIAN", Tata Play Tamil Cinema
 http://crystalott.net:80/BE2ZKMLVXR/I6WSJJXXZ1/2721
-#EXTINF: -1 tvg-id="175" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="TAMIL", News7 Tamil
+#EXTINF: -1 tvg-id="175" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="INDIAN", News7 Tamil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/4MeAG1723374643.webp" group-title="TAMIL",SUN TV
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/4MeAG1723374643.webp" group-title="INDIAN",SUN TV
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100157
 
-#EXTINF:-1 tvg-id="sunmusic.in" tvg-logo="" group-title="TAMIL",SUN MUSIC HD 
+#EXTINF:-1 tvg-id="sunmusic.in" tvg-logo="" group-title="INDIAN",SUN MUSIC HD 
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100155
 
-#EXTINF:0 group-title="TAMIL",SUN LIFE HD
+#EXTINF:0 group-title="INDIAN",SUN LIFE HD
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 
-#EXTINF: -1 tvg-id="708" tvg-chno="8" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="TAMIL", Jaya TV HD
+#EXTINF: -1 tvg-id="708" tvg-chno="8" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="INDIAN", Jaya TV HD
 http://xtv.ooo:8080/359052742/470428329/244572
-#EXTINF:-1 tvg-id="jayaplus.in" tvg-logo="" group-title="TAMIL", JAYA PLUS
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-logo="" group-title="INDIAN", JAYA PLUS
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100123
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/e1ixT1723562069.webp" group-title="TAMIL", MALAI MURASU SETHIGAL 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/e1ixT1723562069.webp" group-title="INDIAN", MALAI MURASU SETHIGAL 
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1097673&extension=ts
 
-#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="TAMIL",Asianet News Tamil 
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="INDIAN",Asianet News Tamil 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/OMV401723371893.png" group-title="TAMIL", NEWS 18 TAMIL NADU 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/OMV401723371893.png" group-title="INDIAN", NEWS 18 TAMIL NADU 
 http://public.rkmiptv.fun/smart.php?id=1096
 
-#EXTINF:-1 tvg-id="polimernews.in" tvg-logo="" group-title="TAMIL", POLIMER NEWS
+#EXTINF:-1 tvg-id="polimernews.in" tvg-logo="" group-title="INDIAN", POLIMER NEWS
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100139
 
 ################################################################CHINESE##########################################################################################
