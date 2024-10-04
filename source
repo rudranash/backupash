@@ -3594,57 +3594,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="INDIAN",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/h2YrU1723650153.jpg" group-title="INDIAN", STAR VIJAY HD
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100153
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/Ot69p1724054716.jpg" group-title="INDIAN",STAR VIJAY 4K
-https://allinonereborn.com/4ktv/m3u.php?id=66390
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/zeI1E1723371252.webp" group-title="INDIAN",VIJAY SUPER 
-https://public.rkmiptv.fun/smart.php?id=831
-
 #EXTINF:18  tvg-logo="https://i.imghippo.com/files/0noS61723897294.jpg" group-title="INDIAN", 3 Tamil HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:18 tvg-logo="https://i.imghippo.com/files/M0GGQ1723897496.webp" group-title="INDIAN", 7 Star TV HD
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:22 tvg-logo="https://i.imghippo.com/files/aPzbc1723897836.jpg" group-title="INDIAN",  Chithiram HD
-https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
 #EXTINF:22 tvg-logo="https://i.imghippo.com/files/Mku1X1723898018.jpg" group-title="INDIAN", APS TV
 http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/dtt1j1723371340.jpg" group-title="INDIAN", MK TV TAMIL 
-https://public.rkmiptv.fun/smart.php?id=639
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/lpXd11723371429.jpg" group-title="INDIAN", JOTHI TV 
-https://public.rkmiptv.fun/smart.php?id=11794
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/qAxYV1723371500.png" group-title="INDIAN", MEGA 24 
-https://public.rkmiptv.fun/smart.php?id=11796
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/UMGv61723371617.webp" group-title="INDIAN", PUTHYUGAM TV 
-https://public.rkmiptv.fun/smart.php?id=11814
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/PMEAb1723371707.jpg" group-title="INDIAN", STAR SPORTS 1 TAMIL HD
-https://public.rkmiptv.fun/smart.php?id=12154
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/K6CoK1723644491.png" group-title="INDIAN", ZEE THIRAI TV
-https://public.rkmiptv.fun/smart.php?id=11756
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/FFTyf1723371828.jpg" group-title="INDIAN", ADHTIYA TV
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100100
-#EXTINF:-1 tvg-id="ktvhd.in" tvg-logo="" group-title="INDIAN", KTV HD
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100125
-#EXTINF: -1 tvg-id="ts663" tvg-chno="52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="INDIAN", Tata Play Tamil Cinema
-http://crystalott.net:80/BE2ZKMLVXR/I6WSJJXXZ1/2721
-#EXTINF: -1 tvg-id="175" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="INDIAN", News7 Tamil
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/4MeAG1723374643.webp" group-title="INDIAN",SUN TV
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100157
-
-#EXTINF:-1 tvg-id="sunmusic.in" tvg-logo="" group-title="INDIAN",SUN MUSIC HD 
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100155
-
-#EXTINF:0 group-title="INDIAN",SUN LIFE HD
-http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="INDIAN",Asianet News Tamil 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
