@@ -3647,21 +3647,9 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100155
 #EXTINF:0 group-title="INDIAN",SUN LIFE HD
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 
-#EXTINF: -1 tvg-id="708" tvg-chno="8" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="INDIAN", Jaya TV HD
-http://xtv.ooo:8080/359052742/470428329/244572
-#EXTINF:-1 tvg-id="jayaplus.in" tvg-logo="" group-title="INDIAN", JAYA PLUS
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100123
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/e1ixT1723562069.webp" group-title="INDIAN", MALAI MURASU SETHIGAL 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1097673&extension=ts
-
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="INDIAN",Asianet News Tamil 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/OMV401723371893.png" group-title="INDIAN", NEWS 18 TAMIL NADU 
-http://public.rkmiptv.fun/smart.php?id=1096
-
-#EXTINF:-1 tvg-id="polimernews.in" tvg-logo="" group-title="INDIAN", POLIMER NEWS
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100139
 
 ################################################################CHINESE##########################################################################################
 
