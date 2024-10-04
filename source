@@ -3518,9 +3518,6 @@ http://filex.tv:8080/paramjeetsingh/002818/288592
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:0 group-title="INDIAN" tvg-logo="https://i.imgur.com/UcGbJuw.jpg",Star Maa Movie
-http://filex.tv:8080/paramjeetsingh/002818/288603
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="INDIAN",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
