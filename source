@@ -3429,6 +3429,17 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 
 ####################################################################INDIAN#########################################################################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_IBC_GLOSSY.png/1200px-Logo_IBC_GLOSSY.png"  group-title="INDIAN",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png"  group-title="INDIAN",IBC Bhakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"  group-title="INDIAN",Kalainger TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg"  group-title="INDIAN",Siripoli TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="214" ch-number="214" ch-number=" " tvg-name="Adithya" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
