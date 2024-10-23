@@ -3429,6 +3429,13 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 
 ####################################################################INDIAN#########################################################################################
+
+#EXTINF:0, group-title="INDIAN" tvg-logo="https://i.ibb.co/b2YSL1j/Sri-Krishna-TV.png",SRI KRISHNA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_IBC_GLOSSY.png/1200px-Logo_IBC_GLOSSY.png"  group-title="INDIAN",IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
