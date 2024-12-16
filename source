@@ -3930,7 +3930,7 @@ http://58.35.70.169:10055/live/cctv17/hls.m3u8
 
 ###########################################################################KOREAN##################################################################################
 
-#EXTINF:-1 tvg-id="416" ch-number="416" tvg-name="tvN Movies HD" group-title="KOREAN" group-logo="https://ibb.co/z4Lf4yX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies (Server 1)
+#EXTINF:-1 tvg-id="416" ch-number="416" tvg-name="tvN Movies HD" group-title="KOREAN" group-logo="https://i.ibb.co/HKFr5f6/korea.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies (Server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
