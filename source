@@ -4928,7 +4928,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-#EXTINF:-1 group-title="KIDS" tvg-id="472.unifi" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX
+#EXTINF:-1 group-title="KIDS" tvg-id="472.unifi" group-logo="https://i.ibb.co/ZSdR6xC/kids-channel.png" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/dtDn44T/Animeallday.png" group-title="KIDS",Anime Alldays
