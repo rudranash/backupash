@@ -4806,11 +4806,6 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 ####################################################################INDIAN#########################################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Indian" tvg-id="" channel-id="60" group-title="Indian",ABO Movies Thangathirai HD
-https://d14sysfrzu8fji.cloudfront.net/thang.mpd
-
 #EXTINF:-1 tvg-id="58184" tvg-logo="" group-title="TAMIL",EYE TV
 https://allinonereborn.com/tatatv.php?id=58184
 
