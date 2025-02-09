@@ -4625,9 +4625,6 @@ https://tinyurl.com/3n7j8vut
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="INDIAN",Sooriyan TV
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
-#EXTINF:-1 tvg-id="AUSTamilTV.au" tvg-logo="https://i.imgur.com/7xcDrJw.png" group-title="INDIAN",AUS Tamil TV (720p) [Not 24/7]
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-
 #EXTINF:0, group-title="INDIAN" tvg-logo="https://i.ibb.co/b2YSL1j/Sri-Krishna-TV.png",SRI KRISHNA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -4797,9 +4794,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 
 #EXTINF:18 tvg-logo="https://i.imghippo.com/files/M0GGQ1723897496.webp" group-title="INDIAN", 7 Star TV HD
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-
-#EXTINF:22 tvg-logo="https://i.imghippo.com/files/Mku1X1723898018.jpg" group-title="INDIAN", APS TV
-http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="INDIAN",Asianet News Tamil 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
