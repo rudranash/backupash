@@ -2589,6 +2589,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 
 ###############################################################MALAYSIA######################################################################################################################
 
+#EXTINF:-1 tvg-id="AstroAura" group-title="malaysia" group-logo="https://aqfadtv.xyz/images/indonesian.png" ch-number="113" tvg-logo="https://aqfadtv.xyz/logos/Astro Aura (2024).png",Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
 #EXTINF:-1 tvg-id="AstroRania" group-title="malaysia" group-logo="https://aqfadtv.xyz/images/indonesian.png" ch-number="112" tvg-logo="https://aqfadtv.xyz/logos/Astro Rania (2024).png",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/608
