@@ -4407,7 +4407,7 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 ####################################################################INDIAN#########################################################################################
 
-#EXTINF:-1 tvg-id="Vasantham" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Vasantham.png",Vasantham 
+#EXTINF:-1 tvg-id="Vasantham" group-title="indian" tvg-logo="https://aqfadtv.xyz/logos/Vasantham.png",Vasantham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/mewatch/vasantham
 https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
