@@ -4754,12 +4754,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 https://l01.dp.sooka.my/2507/linear/index.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3MDEyMDAsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWJhM2JmZGMtNTc1Ni00MjVlLWFmNzctNGNmYjMwOWYxMGVmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.mfbnmmiOKlg7xeiXRjoTtYsH70QGAoNeJV9hOjzoZAM"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="Phoenix Chinese Channel HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Phoenix.png",325 PHOENIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"8cac2539bbc74169b377e1772ad32255":"4631c6979b180e7f63892e3df4cc1134","732ea4f08ce143919f4521f5b3278839":"e8033a6cf6b856f1be10a0c9529927a7"}
+#EXTINF:-1 group-title="chinese",Phoenix Chinese Channel HD
+https://l14.dp.sooka.my/400/linear/index.mpd
 
 
 
