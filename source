@@ -4571,9 +4571,11 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
 ################################################################CHINESE##########################################################################################
 
-
-
-
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" tvg-name="Astro Hua Hee Dai HD" ch-number="333" group-title="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",333 Astro Hua Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
