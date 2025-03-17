@@ -859,6 +859,11 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 ####################################################################INDIAN#########################################################################################
 
+#EXTINF:-1 tvg-id="5714" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Indian",ZEE THIRAI
+https://amit-1.allinonereborn.in/play-b4u.m3u8?id=5714
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 ch-number="221" tvg-name="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="Indian" tvg-id="StarVijay",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
