@@ -862,10 +862,10 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 #EXTINF:-1 tvg-id="5714" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Indian",ZEE THIRAI
 https://amit-1.allinonereborn.in/play-b4u.m3u8?id=5714
 
-#EXTINF:-1 tvg-id="4118" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="TAMIL",JAYA MOVIES US
+#EXTINF:-1 tvg-id="4118" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Indian",JAYA MOVIES US
 https://amit-1.allinonereborn.in/play-b4u.m3u8?id=4118
 
-#EXTINF:-1 tvg-id="4101" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="TAMIL",JAYA MOVIES HD
+#EXTINF:-1 tvg-id="4101" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Indian",JAYA MOVIES HD
 https://amit-1.allinonereborn.in/play-b4u.m3u8?id=4101
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
