@@ -860,8 +860,8 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 
 ####################################################################INDIAN#########################################################################################
-#EXTINF:-1 tvg-id="157" tvg-name="TM: STAR VIJAY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="indian",TM:  VIJAY TV INDIA
-https://allinonereborn.live/star1.m3u8?id=157
+#EXTINF:-1 tvg-id="1634" tvg-name="TM: VIJAY TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="TAMIL",TM: VIJAY TV HD
+https://allinonereborn.live/star1.m3u8?id=1634
 
 #EXTINF:-1 tvg-id="23320" tvg-name="Tamil: SUNTV (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" group-title="indian",Tamil: SUNTV INDIA
 https://allinonereborn.live/star1.m3u8?id=23320
