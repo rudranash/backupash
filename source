@@ -878,7 +878,8 @@ https://allinonereborn.live/star1.m3u8?id=1616
 #EXTINF:-1 tvg-id="9022" tvg-name="TM: J MOVIES" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/JMOV-logo.png" group-title="TAMIL",TM: J MOVIES
 https://allinonereborn.live/star1.m3u8?id=9022
 
-
+#EXTINF:-1 tvg-id="181966" tvg-name="TAMIL: ZEE THIRAI (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",TAMIL: ZEE THIRAI (4K)
+https://allinonereborn.live/star1.m3u8?id=181966
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
