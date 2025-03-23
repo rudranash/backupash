@@ -861,28 +861,7 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 
 ####################################################################INDIAN#########################################################################################
-#EXTINF:-1 tvg-id="1634" tvg-name="TM: VIJAY TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="indian",TM: VIJAY TV INDIA
-https://allinonereborn.live/star1.m3u8?id=1634
 
-#EXTINF:-1 tvg-id="23320" tvg-name="Tamil: SUNTV (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" group-title="indian",Tamil: SUNTV INDIA
-https://allinonereborn.live/star1.m3u8?id=23320
-
-#EXTINF:-1 tvg-id="380981" tvg-name="IN-TM | JAYA MOVIE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="Indian",IN-TM | JAYA MOVIE
-https://allinonereborn.com/opplex.m3u8?id=380981
-#EXTINF:-1 tvg-id="380980" tvg-name="IN-TM | JAYA PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="Indian",IN-TM | JAYA PLUS
-https://allinonereborn.com/opplex.m3u8?id=380980
-
-#EXTINF:-1 tvg-id="1616" tvg-name="TM: RAJ DIGITAL PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635" group-title="indian",TM: RAJ DIGITAL PLUS
-https://allinonereborn.live/star1.m3u8?id=1616
-
-#EXTINF:-1 tvg-id="9022" tvg-name="TM: J MOVIES" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/JMOV-logo.png" group-title="indian",TM: J MOVIES
-https://allinonereborn.live/star1.m3u8?id=9022
-
-#EXTINF:-1 tvg-id="380984" tvg-name="IN-TM | ZEE THIRAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="indian",IN-TM | ZEE THIRAI
-https://allinonereborn.com/opplex.m3u8?id=380984
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 ch-number="221" tvg-name="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="Indian" tvg-id="StarVijay",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
