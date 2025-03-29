@@ -8,7 +8,7 @@
 #EXTM3U billed-msg="New movies:Fire,Perusu,Raja Bheema,Ramam Raghavam,Kingston,Sweetheart"
 
 
-#EXTM3U x-tvg-url=" vod_library="https://cflo.short.gy/vvd"
+#EXTM3U x-tvg-url=" vod_library="https://cflo.short.gy/vvd,https://github.com/rudranash/rudranash/blob/main/vvd"
 
 ###########################################################################SPORT################################################################################
 
