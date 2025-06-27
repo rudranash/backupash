@@ -310,13 +310,12 @@ https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35e
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; 335cec8e-5c83-4c93-8f95-2d351ec96ec8; V2246) 
-#EXTVLCOPT:http-best-effort=true
-#EXTVLCOPT:http-DownLoadRate=40960.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-id="148" ch-number="148" tvg-name="8TV" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",108 Unifi 8TV
-https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ISjyAgq%2Blu2gselHicZT7vP1ZOetmi6OacizOl62HBjf5%2FAFj1swDTc1x%2BSww9v%2BkspKWPAI1%2FcZIol9jdelgPCXy7katpA78mBhfj3E%2BCnQLHSILVqdHo0YHL%2FqjUXHlRUU0IgnFl7hSHjttapGxQ%3D%3D%3A20230713161655%3AUTC%2C1004320541%2C14.1.206.83%2C20230713161655%2Curn:Huawei:liveTV:iptv184%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1800&mount=1000002&targetdev=1800&it=H4sIAAAAAAAAA0XMvQrCMBRA4bfJGPIjvc2QSRFcglB1lZv0GgJpg0kt-PZSEdzPd5aKgU4Ha4L3utPQBzA7lNhjAG2QBGigTgjW6OmK1SxgzmmOrowbuw37uxRccKUk18Au2-6YMVr1Ld1r8lT_bKC6pkB2bA--YuMYY6WISyozP2d8X2v-JR_epfmKmQAAAA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV ᵘⁿⁱᶠⁱ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 tvg-id="149" ch-number="149" tvg-name="TV9" group-title="UNIFI" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/TV9.png",109 Unifi TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
