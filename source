@@ -1,7 +1,4 @@
-
-#EXTM3U url-tvg="https://cflo.short.gy/epgnew,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://epg.pw/api/epg.xml?lang=en&date=20250708&channel_id=441339,https://epg.pw/api/epg.xml?lang=en&date=20250708&channel_id=441336,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml," refresh="1440"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
 
 
 
