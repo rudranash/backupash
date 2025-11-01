@@ -16,6 +16,13 @@
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045 
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1hd
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",816 Champions 1 FHD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760 
+https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=17938
+
 ================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/2SccdZb/sports.jpg" group-title="Sports",
