@@ -1792,10 +1792,13 @@ https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
-#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-logo="" group-title ="",125 Hua Hee Dai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=huaheedai
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="333.astro" tvg-name="HUA HEE DAI HD" tvg-logo="https://i.ibb.co/Hfs1srYQ/Astro-Hua-Hee-Dai-2024.png" group-title="Chinese" ch-number="333",333 Hua Hee Dai HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="300.astro" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" ,126 iQIYI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
