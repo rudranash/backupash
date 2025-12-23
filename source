@@ -1204,6 +1204,9 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/pB6jpFnv/india.jpg" group-title="Indian",
 
+#EXTINF:-1 tvg-id="241.astro" ch-number="241" tvg-name="ABOMovies Thangathirai HD" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhUqQMNCG126HR1T42ORyzWuHOC6PIWXUnRnF0AI4IpeaUkFvrKieZcqsiHvAyolVz78iaKsC01rQvyp8BN1sppokWf053HRc9mQ7o4HbwMPRLP3XGnIIIQ43JyqE9_eu56Lva5WU1SN_WNVwPKWwAcCGFDDMlYesbWfQSd0Iy_yntJtTmkzRXe5L0I0-IM" group-title=" INDIAN", 241 Astro BOX OFFICE B
+https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
+
 
 #EXTINF:-1  tvg-id="SunTV" tvg-name="SUN TV HD" group-title=" INDIAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",211 SUN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
