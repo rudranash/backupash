@@ -1204,6 +1204,12 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/pB6jpFnv/india.jpg" group-title="Indian",
 
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="INDIAN" group-logo="" tvg-logo="https://get.perfecttv.net/logo/suntv.png",195 Sun TV B
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd?channel=suntv
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="241.astro" tvg-logo="https://i.ibb.co/xt1n9Y0Z/Astro-Thangathirai-2024.png" group-logo="" group-title="Indian",241 Thangathirai HD
