@@ -1347,6 +1347,35 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/pB6jpFnv/india.jpg" group-title="Indian",
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcdb0c21368d4c6aa8f4c08e4cd44256:31b348d059593c81f8eb7a8f5f999a76
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://telegra.ph/file/d53746faaa3e31850b626.png" group-title="Indian",Vasantham
+#https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
+#https://tinyurl.com/25zf7k62
+#http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/1699
+
+#EXTINF:0 group-title="Indian" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w240-h480-rw" group-logo="https://i.postimg.cc/9XxbJSmB/download-96.jpg" group-title="Indian", Dark  TV 
+http://applelive.in/darktv/darktv.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg"  group-title="Indian",News 7 Tamil
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://karthavya.com/wp-content/uploads/2023/02/Puthiya-thalaimurai.jpg"  group-title="Indian",Puthiyathalaimurai
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZREBaXvTuwO_HUSLwLJ0DEU2Vx4eKf-HEsURqbOMSM=s900-c-k-c0x00ffffff-no-rj"  group-title="Indian",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_IBC_GLOSSY.png/1200px-Logo_IBC_GLOSSY.png"  group-title="Indian",IBC Tamil
+#https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-id="203" ch-number="203" group-title=" INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Thaai vaazthu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
