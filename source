@@ -115,6 +115,13 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #https://linears2-playback.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSl4YhB1Z7jwnZCEJO2OMScw=2WUm/dash-wv/jitp-linearwm/2104/default_primary.mpd
 https://mt27.aa.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSiV9Pm18cE8Mv_s86qny5zE=SfHh/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
+@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( ⏳ Not 24H ))
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
+https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjgyNjMwMTcsImlzcyI6IlZSIiwiZXhwIjoxNzY4MzQzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzJkMjE5ZGEtMTlmMi00ZDU3LWIzMWQtMmNlMDc2OTI1MzEyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.a3RNgV_MPn-8nGSQ2oLXKt8i2-KNoBx4tHh_ovivzw8
 
 @#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( ⏳ Not 24H ))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
