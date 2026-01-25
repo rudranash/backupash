@@ -107,29 +107,25 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 ###########################################################################SPORT################################################################################
 
-##816
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( ⏳ Not 24H ))
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##812
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSl4YhB1Z7jwnZCEJO2OMScw=2WUm/dash-wv/jitp-linearwm/2104/default_primary.mpd
-https://mt27.aa.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSiV9Pm18cE8Mv_s86qny5zE=SfHh/dash-wv/jitp-linearwm/2104/default_primary.mpd
-
-@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( ⏳ Not 24H ))
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjgyNjMwMTcsImlzcyI6IlZSIiwiZXhwIjoxNzY4MzQzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzJkMjE5ZGEtMTlmMi00ZDU3LWIzMWQtMmNlMDc2OTI1MzEyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.a3RNgV_MPn-8nGSQ2oLXKt8i2-KNoBx4tHh_ovivzw8
-
-@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( ⏳ Not 24H ))
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjgyNjMwMTcsImlzcyI6IlZSIiwiZXhwIjoxNzY4MzQzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzJkMjE5ZGEtMTlmMi00ZDU3LWIzMWQtMmNlMDc2OTI1MzEyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.a3RNgV_MPn-8nGSQ2oLXKt8i2-KNoBx4tHh_ovivzw8
+#KODIPROP:inputstream.adaptive.stream_selection=adaptive
+#KODIPROP:inputstream.adaptive.max_bandwidth=5200000
+#KODIPROP:inputstream.adaptive.min_bandwidth=1800000
+#KODIPROP:inputstream.adaptive.buffer_size=30
+#KODIPROP:inputstream.adaptive.buffer_size_live=40
+#KODIPROP:inputstream.adaptive.live_delay=12
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4500
+#EXTVLCOPT:live-caching=4500
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://live.aqfadtv.xyz/premierleague2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (( ⏳ Not 24H ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
